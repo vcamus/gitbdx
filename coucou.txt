@@ -1,2 +1,2 @@
 coucou
-git push test
+git pull test
